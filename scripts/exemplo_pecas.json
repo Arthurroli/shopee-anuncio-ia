@@ -1,0 +1,6 @@
+{
+  "pecas": {"cruz": {"g": 6.55, "s": 1682, "kg": 75}, "veu": {"g": 8.38, "s": 3566, "kg": 75}},
+  "opcoes": {"Cruz com véu": ["cruz", "veu"]},
+  "cenarios": [{"nome": "Sem embalagem/Ads", "emb": 0, "ads": 0},
+               {"nome": "Embalagem R$ 0,29 + Ads 10%", "emb": 0.29, "ads": 0.10}]
+}
